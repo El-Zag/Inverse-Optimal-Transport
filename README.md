@@ -4,3 +4,5 @@ Group project to implement Inverse Optimal Transport as a recommendation system 
 Mutiple algorithms were implemented, both for forward optimal transport and inverse optimal transport.
 
 Refer to the report for more information (.pdf)
+
+(private repo made public)
